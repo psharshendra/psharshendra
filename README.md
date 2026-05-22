@@ -18,6 +18,16 @@ Currently based in 🇨🇦 Canada | Open to collaborating on PM tools, AI workf
 
 ---
 
+## 🚀 About Me
+
+- 💼 Project Manager specializing in **Azure Cloud Migrations & Managed Services**
+- ☁️ Experienced in delivering **enterprise-scale cloud & security projects**
+- 🔐 Strong focus on **Security, Compliance (SOC2, ISO 27001), and Governance**
+- 🤖 Leveraging **AI tools (Claude, ChatGPT, Copilot)** to enhance productivity & automation
+- 📊 Passionate about **process optimization, cost savings & automation**
+
+---
+
 ## 🛠️ Tools & Tech I Work With
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -25,12 +35,12 @@ Currently based in 🇨🇦 Canada | Open to collaborating on PM tools, AI workf
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat&logo=microsoft&logoColor=white)
 ![Microsoft Planner](https://img.shields.io/badge/Microsoft_Planner-31752F?style=flat&logo=microsoft&logoColor=white)
 ![Microsoft Loop](https://img.shields.io/badge/Microsoft_Loop-5B5BD6?style=flat&logo=microsoft&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat&logo=microsoft&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=flat&logo=microsoft&logoColor=white)
-
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
