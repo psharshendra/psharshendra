@@ -1,6 +1,6 @@
 # Hi, I'm Sangeeth 👋
 
-I'm a **Tech Project Manager** working at the intersection of **AI adoption, agile transformation, and product delivery**.
+I'm a Tech Project Manager working at the intersection of **AI adoption, agile transformation, and product delivery**.
 
 I believe the best PMs don't just ship features — they build systems, grow teams, and create clarity where there's chaos.
 
