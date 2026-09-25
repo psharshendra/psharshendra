@@ -20,11 +20,13 @@ Currently based in 🇨🇦 Canada | Open to collaborating on PM tools, AI workf
 
 ## 🚀 About Me
 
-- 💼 Project Manager specializing in **Azure Cloud Migrations & Managed Services**
-- ☁️ Experienced in delivering **enterprise-scale cloud & security projects**
-- 🔐 Strong focus on **Security, Compliance (SOC2, ISO 27001), and Governance**
-- 🤖 Leveraging **AI tools (Claude, ChatGPT, Copilot)** to enhance productivity & automation
-- 📊 Passionate about **process optimization, cost savings & automation**
+- 💼 **Senior Project Manager** with 10+ years of experience leading enterprise projects and transformation initiatives
+- 📊 Experienced in **project delivery, PMO governance, Agile, Scrum, Kanban & Waterfall** methodologies
+- 🔄 Strong background in **business & technology transformation, digital products, managed services & process improvement**
+- 🤝 Experienced in leading **cross-functional teams, executive stakeholders, vendors and multiple concurrent projects**
+- 🎯 Focused on **delivery excellence, stakeholder alignment, risk management, continuous improvement & measurable outcomes**
+- ☁️ Working knowledge of **Cloud, Cybersecurity, Enterprise Systems & AI-enabled delivery**
+- 🤖 Leveraging **ChatGPT, Claude, Microsoft Copilot and other AI tools** to improve project planning, documentation, automation and productivity
 
 ---
 
